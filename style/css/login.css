@@ -1,0 +1,53 @@
+body {
+    font-family: "Poppins";
+    background-color: #436129;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* height: 100vh; */
+    /* Membuat kontainer memenuhi tinggi viewport */
+}
+
+.logo {
+    width: 150px;
+    /* Sesuaikan lebar logo sesuai kebutuhan */
+}
+
+.content-custom {
+    padding: 20px;
+}
+
+h1,
+h6 {
+    color: white;
+    margin-top: 5px;
+}
+
+.sehat {
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+.form-control {
+    background: #65A52F;
+    color: white;
+}
+
+.form-label {
+    color: white;
+    text-align: center;
+    display: block;
+    width: 100%;
+}
+
+.container .btn {
+    margin-top: 25px;
+    color: white;
+    width: 148px;
+    height: 44px;
+    background-color: #730000;
+}
+
+.login-img {
+    display: flex;
+}

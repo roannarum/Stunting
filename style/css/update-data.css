@@ -1,0 +1,57 @@
+img {
+    width: 66px;
+    height: 75px;
+}
+
+.form-container {
+    margin-top: 8%;
+    margin-bottom: 8%;
+
+}
+
+.content-container {
+    flex: 1;
+}
+
+/* .form-check.form-check-inline {
+    display: inline-block;
+    margin-right: 10px;
+} */
+
+/* .form {
+    padding: 0px;
+    margin-bottom: 7rem;
+} */
+
+.form .form-content {
+    padding: 40px;
+}
+
+.form-control {
+    background: rgba(181, 197, 81, 0.21);
+}
+
+/* .d-grid {
+    margin-bottom: 7rem;
+  } */
+
+@media (max-width: 550px) {
+
+    .h3-custom {
+        font-weight: bold;
+        font-size: 18px;
+    }
+
+    .h6-custom {
+        font-size: 15px;
+    }
+
+    h1 {
+        font-size: 25px;
+    }
+
+    h4 {
+        font-size: 18px;
+    }
+
+}
